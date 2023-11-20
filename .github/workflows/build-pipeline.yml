@@ -1,4 +1,4 @@
-# GitHub CI build pipeline
+## GitHub CI build pipeline
 name: Awesome Calculator CI build
 
 on:
